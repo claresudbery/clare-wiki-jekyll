@@ -11,15 +11,7 @@ categories: jekyll howto
 * If you want to preview them, run **jekyll serve --draft**.  
 * Note that you don't have to use the same naming convention - draft posts don't need a date attached to their name.
 
-## testing testing
-
-* one
-* two
-* three
-
-## title
-- thing
-- Other
-- More
+## Serving multiple local Jekyll sites
+The default port is 4000, but you can add --port nnnn after the jekyll serve command to serve a separate site on a separate port.
 
 
