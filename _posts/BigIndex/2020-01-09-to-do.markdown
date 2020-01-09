@@ -11,4 +11,4 @@ categories: BigIndex
 - Convert word doc to markdown?
 - Experiment locally with Ably wiki
 - Import from evernote
-- Jekyll without dates: https://stackoverflow.com/questions/27099427/jekyll-filename-without-date 
+- [Jekyll without dates](https://stackoverflow.com/questions/27099427/jekyll-filename-without-date) 
