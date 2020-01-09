@@ -12,6 +12,15 @@ When I had problems running jekyll on command line (GitBash, Windows) after inst
 	Ran bundle install
 	Then prefixed all jekyll commands with bundle exec - eg bundle exec jekyll -v and bundle exec jekyll build
 	
+Favicon showing up in Google Chrome: https://stackoverflow.com/questions/16375592/favicon-not-showing-up-in-google-chrome
+	Favicon generator: https://favicon.io/favicon-generator/
+	
+Css/layout not the same locally as remote
+	Stored relevant files in C:\Users\CLARE\Downloads\images\BigIndex
+	See screenshots: Local-layout.PNG and Remote-layout.PNG
+	Html and search js are identical (see files in same folder)
+	But _site/assets/main.css are slightly different. See local-main.css and remote-main.css
+	
 Deploying jekyll using heroku: https://blog.heroku.com/jekyll-on-heroku
 	In Ubuntu 16: 
 		I followed the instructions for getting ruby-install and chruby to get latest Ruby version	
