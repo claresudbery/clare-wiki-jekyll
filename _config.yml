@@ -18,10 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Everything Clare Knows (vanilla Jekyll)
+title: Everything Clare Knows (obsolete)
 description: >- # this means to ignore newlines until "baseurl:"
-  A wiki site hosting ALL OF CLARE'S NOTES. Be afraid. Be very afraid.  
-  Or if you like you can just be excited! Clare is.
+  Forget this url - Everything Clare Knows is now at clare-wiki.herokuapp.com.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://clare-wiki-jekyll.herokuapp.com/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: claresudbery

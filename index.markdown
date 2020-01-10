@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+Forget this url - Everything Clare Knows is [now over here](https://clare-wiki.herokuapp.com/).
